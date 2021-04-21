@@ -3,7 +3,7 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = 
+TARGET = x2gowswrapper
 DEPENDPATH += .
 INCLUDEPATH += .
 QT-=gui
