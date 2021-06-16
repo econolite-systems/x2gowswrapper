@@ -1,10 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: X2Go Websocket Wrapper
-Upstream-Contact: Oleksandr Shneyder <o.schneydr@phoca-gmbh.de>
+Upstream-Contact: Oleksandr Shneyder <o.schneyder@phoca-gmbh.de>
 Source: https://code.x2go.org/releases/source/x2gowswrapper/
 
 Files: *
-Copyright: 2021, Oleksandr Shneyder <o.schneydr@phoca-gmbh.de>
+Copyright: 2021, Oleksandr Shneyder <o.schneyder@phoca-gmbh.de>
 License: GPL-2+
 
 Files: debian/*
